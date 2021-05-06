@@ -3,7 +3,8 @@
 <!-- 구분선 -->
 ### 저는 유한대학교 영상보안 학과를 졸업하고
 ### 국비지원 코딩학원 6개월 과정을 진행중입니다.
-
+### 국비지원 학원을 다니며 여러가지 프로젝트를 통해 
+### 코딩에 이해도를 높였습니다.
 
 **iji4480/iji4480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
