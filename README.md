@@ -42,20 +42,20 @@
 + 반갑습니다
 + 어떡하지
   + 뿌뿌이
-  + 브끄러워요 
+    + 브끄러워요 
 
 <!-- 순서 없는 목록 2(*) -->
 * 안녕하세요
 * 반갑습니다
 * 어떡하지
   * 뿌뿌이
-  * 브끄러워요 
+   * 브끄러워요 
 <!-- 순서 없는 목록 3(-) -->
 - 안녕하세요
 - 반갑습니다
 - 어떡하지
   - 뿌뿌이
-  - 브끄러워요 
+    - 브끄러워요 
 <!--
 **iji4480/iji4480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
