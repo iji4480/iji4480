@@ -1,6 +1,10 @@
 # JUNSUJO
 <!-- 구분선 -->
-## Hello everyone~~ welcome
+## Hello everyone~~ welcome.
+
+
+
+
 
 **iji4480/iji4480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
