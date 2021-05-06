@@ -28,6 +28,13 @@
 > > 두개짜리 계층
 > > >세개짜리 계층
 
+<!-- 숫자목록 -->
+1. 일번
+2. 이번
+3. 삼번
+4.사번
+5.오번
+6.육번
 
 <!--
 **iji4480/iji4480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
