@@ -10,7 +10,15 @@
 ## 두개를 사용하면
 <h2>h2 태그 효과가 납니다.<h2>
   
-  즉 h6까지 있으므로, #도 6개까지 사용 가능합니다.
+즉 h6까지 있으므로, #도 6개까지 사용 가능합니다.
+
+<!-- 소스코드 게시 1 -->
+소스코드는 그냥 작성하지 않고
+tab 키를 이용해서 들여쓰기로 작성하면 자동으로 소스코드로 인식됩니다.
+
+  System.out.println("hello github");
+  
+여기부턴 일반 텍스트
 
 <!--
 **iji4480/iji4480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
