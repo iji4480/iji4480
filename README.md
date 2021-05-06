@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!-- 텍스트 적기 -->
+텍스트는 그냥 작성하면 12포인트 크기로 작성됩니다.
+
 <!--
 **iji4480/iji4480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
